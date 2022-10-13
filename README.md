@@ -6,4 +6,6 @@ Crud para cadastro de clientes, contendo as seguintes informações:
 - Cidade
 - Ação
 
-O projeto pode ser visto no link:  https://crud-jr.netlify.app/
+O projeto pode ser visto no link abaixo:
+
+https://crud-jr.netlify.app/
